@@ -9,7 +9,8 @@
   ],
   "exports": {
     "./styles.css": "./dist/index.css",
-    "./*": "./dist/*.js"
+    "./header": "./src/header.tsx",
+    "./chat": "./src/chat.tsx"
   },
   "license": "MIT",
   "scripts": {
